@@ -1,1 +1,2 @@
-# ride-bot
+# Telegram Ride Bot
+...інструкція для запуску...
